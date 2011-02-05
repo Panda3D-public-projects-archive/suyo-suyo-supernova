@@ -1,0 +1,11 @@
+#labels weapons,stars,constalations
+Constalation creation is one of the features for Suyo-Suyo Supernova. In SSS, a constalation (created by the player) serves as a Suyo's weapon in-game. In order to create a constalation, the player must find an "Elder Squidling" and speak to him.
+<p>
+The player will then have to choose a weapon type...
+<img src="http://i55.tinypic.com/16iv8xt.jpg">
+<p>
+...And then be taken to a creation screen. Players can color code their stars to determine different effects for their constalations. (i.e, a red star denotes a handle, while a yellow star does nothing)
+<img src="http://i54.tinypic.com/2jgwvd.jpg">
+<p>
+After a player is done creating his/her weapon, he/she can then name it.
+<img src="http://i51.tinypic.com/2wmhwlc.jpg">
