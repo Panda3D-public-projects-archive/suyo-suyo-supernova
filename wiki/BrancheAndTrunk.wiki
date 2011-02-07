@@ -1,0 +1,9 @@
+Branches:
+Currently work in progress that are under heavy development. These branches will be used to share code and ideas.
+
+A Rev# will be used to keep track of currently added code that will be used for the next Trunk build.
+
+
+
+Trunk:
+A more final and stable version code that will be kept for a long time. Usually will be the best place to build from source for w/e reason.
