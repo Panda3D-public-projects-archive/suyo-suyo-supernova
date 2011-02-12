@@ -1,0 +1,4 @@
+Unless it's an .exe file, I'll be moving things from the download page to the Source code folder every Monday or so. If you can mark what ones you like to add it well help me knowing what goes into the project.
+
+
+The Download page will be used to temporary store files for faster downloading. The main purpose of the download page is to upload completed work such as an .exe file but not limited by just that.
