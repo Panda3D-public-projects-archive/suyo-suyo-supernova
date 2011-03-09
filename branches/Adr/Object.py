@@ -17,6 +17,7 @@ from pandac.PandaModules import *
 class ObjectName:
   def __init__(self, ReparentTo=render, Prop=0, PosHpr=(0,0,0,0,0,0)):
     self.Object = loader.loadModel("WeaponPath")
+    self.Object.getTag("")
     #self.Object = Actor("models/panda-model", {"walk": "models/panda-walk4"}) Use this line if they have animations.
     self.Object.flattenStrong()
     self.ObjectSounds = {"TakeOut":[], "PutUp":[], "Attack":[], "Swing":[], "Aim":[], "Shoot":[]}
